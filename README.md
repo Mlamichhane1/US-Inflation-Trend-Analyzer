@@ -26,7 +26,8 @@ By using key performance indicators (KPIs) and dynamic visualizations, the dashb
 ## Dashboard Preview
 *(Replace IMAGE_LINK_HERE below with your uploaded image URL once GitHub finishes uploading it)*
 
-![Inflation Dashboard](IMAGE_LINK_HERE)
+![Inflation Dashboard]<img width="1498" height="849" alt="Screenshot 2025-10-15 at 1 09 04 AM" src="https://github.com/user-attachments/assets/4899c2bd-c1c6-478e-ab79-5719140730d5" />
+
 
 ---
 
